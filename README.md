@@ -16,29 +16,29 @@
   <br>
   💻 I love writing code, learning new toolsets, and training machine learning models.
   <br>
-  💬 Ask me anything from <a href="https://github.com/westonCoder/profileRepository/issues" title="Issues">Here</a>
+  💬 Ask me anything from <a href="https://github.com/westonCoder/westonCoder/issues" title="Issues">Here</a>
 </p>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="35" src="images/python-original.svg"></code>
-  <code><img title="C" height="35" src="images/c.svg"></code>
-  <code><img title="C++" height="35" src="images/cpp.svg"></code>
-  <code><img title="Bash" height="35" src="images/bash.svg"></code>
-  <code><img title="Java" height="35" src="images/java-original.svg"></code>
-  <code><img title="OpenCV" height="35" src="images/opencv.svg"></code>
-  <code><img title="PyTorch" height="35" src="images/pytorch.svg"></code>
-  <code><img title="TensorFlow" height="35" src="images/tensorflow.svg"><code>
-  <code><img title="AWS" height="35" src="images/aws.svg"><code>
-  <code><img title="SageMaker" height="35" src="images/sagemaker.svg"><code>
-  <code><img title="Azure" height="35" src="images/azure.svg"><code>
-  <code><img title="Azure Machine Learning" height="35" src="images/azureml.svg"><code>
-  <code><img title="Numpy" height="35" src="images/numpy.svg"><code>
-  <code><img title="Pandas" height="35" src="images/pandas.svg"><code>
-  <code><img title="Git" height="35" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="35" src="images/github.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="Bash" height="25" src="images/bash.svg"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="OpenCV" height="25" src="images/opencv.svg"></code>
+  <code><img title="PyTorch" height="25" src="images/pytorch.svg"></code>
+  <code><img title="TensorFlow" height="25" src="images/tensorflow.svg"><code>
+  <code><img title="AWS" height="25" src="images/aws.svg"><code>
+  <code><img title="SageMaker" height="25" src="images/sagemaker.svg"><code>
+  <code><img title="Azure" height="25" src="images/azure.svg"><code>
+  <code><img title="Azure Machine Learning" height="25" src="images/azureml.svg"><code>
+  <code><img title="Numpy" height="25" src="images/numpy.svg"><code>
+  <code><img title="Pandas" height="25" src="images/pandas.svg"><code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
 </p>
 <hr>
 
