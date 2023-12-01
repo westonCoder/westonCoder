@@ -23,7 +23,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Python" height="35" src="images/python-original.svg"></code>
   <code><img title="C" height="35" src="images/c.svg"></code>
   <code><img title="C++" height="35" src="images/cpp.svg"></code>
   <code><img title="Bash" height="35" src="images/bash.svg"></code>
@@ -35,12 +35,10 @@
   <code><img title="SageMaker" height="35" src="images/sagemaker.svg"><code>
   <code><img title="Azure" height="35" src="images/azure.svg"><code>
   <code><img title="Azure Machine Learning" height="35" src="images/azureml.svg"><code>
-  <code><img title="ML Flow" height="35" src="images/mlflow.svg"><code>
   <code><img title="Numpy" height="35" src="images/numpy.svg"><code>
   <code><img title="Pandas" height="35" src="images/pandas.svg"><code>
   <code><img title="Git" height="35" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="35" src="images/github.svg"></code>
-  <code><img title="JSON" height="35" src="images/json.svg"></code>
 </p>
 <hr>
 
