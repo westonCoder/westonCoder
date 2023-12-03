@@ -14,6 +14,8 @@
   <br>
   🎓 I graduated with a Bachelors of Science from Texas Tech University, Department Computer Engineering
   <br>
+  🛩️ I have a passion for aerospace and robotics, and have worked professionally in both industries. 
+  <br>
   💻 I love writing code, learning new toolsets, and training machine learning models.
   <br>
   💬 Ask me anything from <a href="https://github.com/westonCoder/westonCoder/issues" title="Issues">Here</a>
