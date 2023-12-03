@@ -22,7 +22,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages | Frameworks | Tools 🔥</h2>
+<h2 align="center">🔥 Languages & Tools 🔥</h2>
 <br>
 <p align="center">
   <code><img title="Python" height="35" src="images/python-original.svg"></code>
