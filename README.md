@@ -51,11 +51,11 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=100% src="https://streak-stats.demolab.com/?user=westonCoder&theme=react&border=61dafb&hide_border=true" alt="westonCodera" />
+      <img align="center" width=100% src="https://streak-stats.demolab.com/?user=westonCoder&theme=react&border=4af626&hide_border=true" alt="westonCodera" />
     </a>
     <br><br><br>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=westonCoder&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=westonCoder&show_icons=true&theme=react&border_color=4af626&hide_border=true" />
     </a>
   </div>
   <br><br>
