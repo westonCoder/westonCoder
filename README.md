@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;My+name+is+Weston+Salinas.;Nice+to+meet+you!&center=true&size=25&color=4AF626">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;My+name+is+Weston+Salinas.;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
 
@@ -52,6 +52,10 @@
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="center" width=100% src="https://streak-stats.demolab.com/?user=westonCoder&theme=react&border=4af626&hide_border=true" alt="westonCodera" />
+    </a>
+    <br><br><br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=westonCoder&layout=compact&theme=react&hide_border=true" />
     </a>
     <br><br><br>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
