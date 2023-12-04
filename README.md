@@ -51,17 +51,17 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=47% src="https://streak-stats.demolab.com/?user=westonCoder&theme=react&border=4af626&hide_border=true&rank_icon=github" alt="westonCoder" />
+      <img align="left" width=48% src="https://streak-stats.demolab.com/?user=westonCoder&theme=react&border=4af626&hide_border=true&rank_icon=github" alt="westonCoder" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=44.5% height=75% src="https://github-readme-stats.vercel.app/api?username=westonCoder&show_icons=true&theme=react&border_color=4af626&hide_border=true&rank_icon=github" />
+      <img align="right" width=45.5% height=75% src="https://github-readme-stats.vercel.app/api?username=westonCoder&show_icons=true&theme=react&border_color=4af626&hide_border=true&rank_icon=github" />
     </a>
-    
+    <br><br><br>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=westonCoder&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    </a>
   </div>
-  <br><br><br><br><br><br><br><br><br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=westonCoder&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  <br><br>
 </p>
 
 <hr>
