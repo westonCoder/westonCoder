@@ -59,7 +59,7 @@
   </div>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img src="" height=50/>
+      <img src="" height="50"/>
     </a>
   </div>
   <div align=center>
