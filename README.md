@@ -58,6 +58,7 @@
     </a>
   </div>
   <div align=center>
+    <br><br><br>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=westonCoder&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
     </a>
