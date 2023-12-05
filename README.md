@@ -54,7 +54,7 @@
       <img align="left" width=44% src="https://streak-stats.demolab.com/?user=westonCoder&theme=react&border=4af626&hide_border=true&rank_icon=github" alt="westonCoder" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=41% src="https://github-readme-stats.vercel.app/api?username=westonCoder&show_icons=true&theme=react&border_color=4af626&hide_border=true&rank_icon=github" />
+      <img align="right" width=41.5% src="https://github-readme-stats.vercel.app/api?username=westonCoder&show_icons=true&theme=react&border_color=4af626&hide_border=true&rank_icon=github" />
     </a>
   </div>
   <div align=bottom>
