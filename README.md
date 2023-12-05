@@ -56,12 +56,10 @@
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=42.5% src="https://github-readme-stats.vercel.app/api?username=westonCoder&show_icons=true&theme=react&border_color=4af626&hide_border=true&rank_icon=github" />
     </a>
-    <br><br><br>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=westonCoder&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-    </a>
   </div>
-
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=westonCoder&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  </a>
 </p>
 
 <hr>
