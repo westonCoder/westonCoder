@@ -49,7 +49,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-  <div align=center margin=auto>
+  <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=44% src="https://streak-stats.demolab.com/?user=westonCoder&theme=react&border=4af626&hide_border=true&rank_icon=github" alt="westonCoder" />
     </a>
@@ -58,6 +58,8 @@
     </a>
   </div>
   <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    </a>
   </div>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
