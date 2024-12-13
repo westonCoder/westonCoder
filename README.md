@@ -14,6 +14,8 @@
   <br>
   🎓 I graduated with a Bachelors of Science from Texas Tech University, Department Computer Engineering
   <br>
+  🎓 Currently working towards Masters Degree in Artificial Intelligence from the University of Texas at Austin, Department Computer Science
+  <br>
   🛩️ I have a passion for aerospace and robotics, and have worked professionally in both industries. 
   <br>
   💻 I love writing code, learning new toolsets, and training machine learning models.
